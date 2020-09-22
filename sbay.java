@@ -580,9 +580,9 @@ public class sbay
 
 		// Features
 		c.drawString ("Features:", 310, 277);
-		c.drawString ("• Can be used wirelessly through Bluetooth, or with a wire", 310, 289);
-		c.drawString ("• Crisp, powerful sound", 310, 301);
-		c.drawString ("• Luxuriously soft ear cushions", 310, 313);
+		c.drawString ("Â• Can be used wirelessly through Bluetooth, or with a wire", 310, 289);
+		c.drawString ("Â• Crisp, powerful sound", 310, 301);
+		c.drawString ("Â• Luxuriously soft ear cushions", 310, 313);
 
 		// Price
 		Font Price = new Font ("Arial", Font.BOLD, 16);
@@ -870,9 +870,9 @@ public class sbay
 
 		    // Features
 		    c.drawString ("Features:", 310, 277);
-		    c.drawString ("• AM/FM Radio, Skip Search Function", 310, 289);
-		    c.drawString ("• CD-R compatible CD player", 310, 301);
-		    c.drawString ("• Headphone jack", 310, 313);
+		    c.drawString ("Â• AM/FM Radio, Skip Search Function", 310, 289);
+		    c.drawString ("Â• CD-R compatible CD player", 310, 301);
+		    c.drawString ("Â• Headphone jack", 310, 313);
 
 		    // Price
 		    Font Price = new Font ("Arial", Font.BOLD, 16);
@@ -1160,9 +1160,9 @@ public class sbay
 
 		    // Features
 		    c.drawString ("Features:", 310, 277);
-		    c.drawString ("• Automatically on, automatically connected", 310, 289);
-		    c.drawString ("• Quick access to Siri", 310, 301);
-		    c.drawString ("• Rich, high quality audio", 310, 313);
+		    c.drawString ("Â• Automatically on, automatically connected", 310, 289);
+		    c.drawString ("Â• Quick access to Siri", 310, 301);
+		    c.drawString ("Â• Rich, high quality audio", 310, 313);
 
 		    // Price
 		    Font Price = new Font ("Arial", Font.BOLD, 16);
@@ -1441,9 +1441,9 @@ public class sbay
 
 		    // Features
 		    c.drawString ("Features:", 310, 277);
-		    c.drawString ("• High quality audio capture", 310, 289);
-		    c.drawString ("• Rich design and texture", 310, 301);
-		    c.drawString ("• Can be used wirelessly or with a wire", 310, 313);
+		    c.drawString ("Â• High quality audio capture", 310, 289);
+		    c.drawString ("Â• Rich design and texture", 310, 301);
+		    c.drawString ("Â• Can be used wirelessly or with a wire", 310, 313);
 
 		    // Price
 		    Font Price = new Font ("Arial", Font.BOLD, 16);
@@ -3380,10 +3380,10 @@ public class sbay
 				c.setColor (new Color (0, 255, 1)); // green
 				c.drawString ("y", 451, 359);
 
-				// "Copyright © 2018 sbay Inc. All rights reserved. | sbay.ca"
+				// "Copyright Â© 2018 sbay Inc. All rights reserved. | sbay.ca"
 				c.setColor (Color.white);
 				c.setFont (ArialBold11);
-				c.drawString ("Copyright © 2018 sbay Inc. All rights reserved. | sbay.ca", 180, 490);
+				c.drawString ("Copyright Â© 2018 sbay Inc. All rights reserved. | sbay.ca", 180, 490);
 			    }
 			    else // if they clear the cart & return to inventory
 			    {
@@ -3417,6 +3417,6 @@ public class sbay
 } // main method
 
 
-// AreaAndPerimeter class
+// sbay class
 
 
